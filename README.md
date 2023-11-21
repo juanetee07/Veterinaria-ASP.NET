@@ -1,5 +1,5 @@
 # Veterinaria-ASP.NET
 
-Nombre y Apellido: Juan Cruz Larcher
-Título del Proyecto: Veterinaria Web
-Fecha: 20/11/2023
+<br>Nombre y Apellido: Juan Cruz Larcher
+<br>Título del Proyecto: Veterinaria Web
+<br>Fecha: 20/11/2023
